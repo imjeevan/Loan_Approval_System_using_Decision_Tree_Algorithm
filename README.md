@@ -1,0 +1,2 @@
+# Loan_Approval_System_using_Decision_Tree_Algorithm
+loan prediction system using decision tree algorithm
